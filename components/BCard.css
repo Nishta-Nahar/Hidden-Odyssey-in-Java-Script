@@ -1,0 +1,33 @@
+
+.wrapper-div {
+    display: grid;
+    grid-template-columns: 1fr 2fr ;
+    height: 300px;
+    margin: 5px;
+    /* padding: 20px; */
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    /* background-color: aqua; */
+    
+}
+
+.booking-div{
+    
+    transition: all 0.3s ease-out;
+    background-color: black;
+    border-radius: 10px;
+    
+}
+
+.booking-div:hover{
+
+    /* box-shadow: 2px 2px 5px rgb(255, 255, 255); */
+    border: solid white 1px;
+
+    transition: all 0.3s ease-out;
+}
+
+
+.room-info{
+    font-size: 18px;
+    color: white;
+}

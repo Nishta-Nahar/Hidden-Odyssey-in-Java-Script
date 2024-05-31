@@ -1,0 +1,82 @@
+﻿[
+    {
+        "id": "1",
+        "Vehicle": "2 wheeler",
+        "Name": "Yamaha FZ16",
+        "PH": "15 SGD",
+        "PD": "250 SGD",
+        "PW": "1500 SGD",
+        "desc": "Fuel costs not included. Helmets will be provided.",
+        "limit": "2"
+    },
+    {
+        "id": "2",
+        "Vehicle": "2 wheeler",
+        "Name": "Honda CB150R",
+        "PH": "17 SGD",
+        "PD": "250 SGD",
+        "PW": "1500 SGD",
+        "desc": "Fuel costs not included. Helmets will be provided.",
+        "limit": "2"
+    },
+    {
+        "id": "3",
+        "Vehicle": "2 wheeler",
+        "Name": "Honda Wave",
+        "PH": "10 SGD",
+        "PD": "175 SGD",
+        "PW": "1100 SGD",
+        "desc": "Fuel costs not included. Helmets will be provided.",
+        "limit": "2"
+    },
+    {
+        "id": "4",
+        "Vehicle": "4 wheeler",
+        "Name": "BMW 5 Series",
+        "PH": "40 SGD",
+        "PD": "600 SGD",
+        "PW": "2500 SGD",
+        "desc": "Fuel costs included.",
+        "limit": "5"
+    },
+    {
+        "id": "5",
+        "Vehicle": "4 wheeler",
+        "Name": "Audi A4",
+        "PH": "45 SGD",
+        "PD": "750 SGD",
+        "PW": "2750 SGD",
+        "desc": "Fuel costs included.",
+        "limit": "5"
+    },
+    {
+        "id": "6",
+        "Vehicle": "4 wheeler",
+        "Name": "BMW X3",
+        "PH": "45 SGD",
+        "PD": "800 SGD",
+        "PW": "3000 SGD",
+        "desc": "Fuel costs included.",
+        "limit": "5"
+    },
+    {
+        "id": "7",
+        "Vehicle": "Public",
+        "Name": "BUS",
+        "PH": "2 SGD per person",
+        "PD": "20 SGD per person",
+        "PW": "90 SGD per person",
+        "desc": "Card provided. Please carry card for every Bus trip",
+        "limit": "-"
+    },
+    {
+        "id": "8",
+        "Vehicle": "Public",
+        "Name": "METRO",
+        "PH": "5 SGD",
+        "PD": "30 SGD",
+        "PW": "100 SGD",
+        "desc": "Card provided. Please carry card for every Metro trip",
+        "limit": "-"
+    }
+]

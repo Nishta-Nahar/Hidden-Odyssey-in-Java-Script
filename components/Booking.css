@@ -1,0 +1,38 @@
+.wrapper-div {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    /* max-width: 300px;  */
+    /* text-align: center; */
+    font-family: arial;
+    margin: 5px;
+    padding: 10px;
+    max-height: 500px;
+    display: flex;
+    /* align-items: center; */ 
+}
+
+.page>p{
+
+    font-size: 20px;
+}
+
+.room-info{
+
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+.book-options{
+
+    margin-top: 20px;
+    margin-left: 500px;
+    font-size: 18px;
+    color: white;
+}
+
+.page{
+
+    margin-top: -16px;
+    background-color: rgb(15, 15, 15);
+    padding: 10px;
+}
+
